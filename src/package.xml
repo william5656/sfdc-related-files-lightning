@@ -36,9 +36,5 @@
         <members>Order.View_Related_Files</members>
         <name>WebLink</name>
     </types>
-     <types>
-        <members>Order__c</members>
-        <name>CustomObject</name>
-    </types>
     <version>45.0</version>
 </Package>
