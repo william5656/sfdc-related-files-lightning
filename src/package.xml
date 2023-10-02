@@ -37,7 +37,7 @@
         <name>WebLink</name>
     </types>
      <types>
-        <members>Order</members>
+        <members>Order__c</members>
         <name>CustomObject</name>
     </types>
     <version>45.0</version>
